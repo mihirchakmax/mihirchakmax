@@ -1,11 +1,15 @@
-### Hi there 👋
+### Hello 👋
+## I am Mihir Chakma.
 
-- 🧑‍🎓 I’m currently studying Bachelor of Applied Information Technology.
-- 🔭 I’m currently working on open-source projects.
-- 📖 I’m currently learning Rust Programming.
+- 🔭 I’m an undergraduate in Bachelor of Applied Information Technology.
+- 🌱 I’m currently learning Python and V Programming.
+- 🤔 I’m on Mastodon <a rel="me" href="https://mastodon.social/@sakma">Sakma</a>
+- 📫 How to reach me: mihirsakma@gmail.com
+- 😄 Pronouns: He/Him
+
 
 <!--
-**mihirchangma/mihirchangma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mihirsakma/mihirsakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
